@@ -1,0 +1,33 @@
+_repo: An-Introduction-to-Nature-study_61273
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stenhouse, E. (Ernest)
+    alias: Stenhouse, Ernest
+    gutenberg_agent_id: '51336'
+    url: http://www.gutenberg.org/2009/agents/51336
+description: ''
+gutenberg_issued: '2020-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Study and teaching'
+- !lcc 'QH'
+- !lcsh 'Nature study'
+- GITenberg
+tableOfContents: 'Seeds and their early stages of growth -- How a green plant feeds
+  -- The forms and duties of leaves -- Buds; the history of a twig -- How stems do
+  their work -- Some common flowers -- Grasses -- Common forest trees -- Fruits: how
+  seeds are scattered -- Ferns and horsetails -- Mosses, mushrooms, and moulds --
+  The rabbit: a typical mammal -- How a rabbit lives -- Some other mammals -- The
+  pigeon: a typical bird -- The development and education of the chick -- Some familiar
+  British birds -- Frogs and tadpoles -- The habits and life-histories of common insects
+  -- Some crustaceans, molluscs, and worms -- Field-work; the school journey, monthly
+  nature calendar.'
+title: An Introduction to Nature-study
+url: http://www.gutenberg.org/ebooks/61273
